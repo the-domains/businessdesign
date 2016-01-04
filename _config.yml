@@ -1,0 +1,28 @@
+name: businessdesign
+favicon: null
+layout_spectrum: 0.9076703817117959
+typography_spectrum: 0.8509290586225688
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.14402826083824039
+  lightness: 0.05561737576499581
+  saturation: 0.0742855966091156
+  rhythmicContrast: 0.3300250347238034
+purpose: []
