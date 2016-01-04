@@ -1,6 +1,6 @@
 name: businessdesign
 favicon: null
-layout_spectrum: 0.9076703817117959
+layout_spectrum: 0.61495
 typography_spectrum: 0.8509290586225688
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.14402826083824039
-  lightness: 0.05561737576499581
-  saturation: 0.0742855966091156
-  rhythmicContrast: 0.3300250347238034
+    - '#ffffff'
+    - '#a29da2'
+    - '#bf1d73'
+    - '#e1e01c'
+    - '#2684be'
+  brandStrength: 0.375
+  lightness: 0.6875
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
